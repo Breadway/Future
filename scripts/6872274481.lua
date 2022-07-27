@@ -934,7 +934,7 @@ do
 
     local AuraStrafe = {Enabled = false}
     local AuraShowTarget = {Enabled = false}
-    local InstantKill = {Enabled = false}
+    local InstantKill = {Enabled = true}
     local AuraDistance = {Value = 18}
     local AuraAnimation = {Value = ""}
     local Aura = {Enabled = false}
